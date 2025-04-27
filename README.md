@@ -79,8 +79,3 @@ tree.delete(10);
 System.out.println(tree.min()); // Output: "Twenty"
 ```
 
----
-
-# License
-
-This project is provided for educational, demonstration, and personal development purposes.
